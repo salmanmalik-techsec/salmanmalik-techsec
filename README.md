@@ -13,7 +13,7 @@
     - **Metrics After Hardening:**
       - Achieved 0 security incidents and 0 security alerts over a 24-hour period after implementing security controls.
       - Reduced Windows Security Events to 8,778 and Linux Syslog entries to just 25, demonstrating a significant decrease in suspicious activity.
-
+- <b>Network Security Projects:</b>
 
 
 <h2>📺 Popular YouTube Videos</h2>
