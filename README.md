@@ -4,6 +4,16 @@
 
 - <b>Azure / Cloud Cybersecurity Projects:</b>
   - [Creating a Live SOC / HoneyNet](https://github.com/salmanmalik-techsec/Cloud-SOC)
+    - **Tools:** Azure, Microsoft Sentinel, Log Analytics Workspace
+    - **Purpose:** Built a mini honeynet to simulate real-world cyber attacks and ingest logs for detection and response using Sentinel.
+    - **Metrics Before Hardening:**
+      - Observed 348 security incidents and 10 security alerts over a 24-hour period in an insecure environment. 
+      - Identified 843 malicious network flows allowed into the honeynet.
+      - Logged 19,470 Windows Security Events and 3,028 Linux Syslog entries.
+    - **Metrics After Hardening:**
+      - Achieved 0 security incidents and 0 security alerts over a 24-hour period after implementing security controls.
+      - Reduced Windows Security Events to 8,778 and Linux Syslog entries to just 25, demonstrating a significant decrease in suspicious activity.
+
 
 
 <h2>📺 Popular YouTube Videos</h2>
