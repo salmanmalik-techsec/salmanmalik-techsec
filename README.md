@@ -1,4 +1,4 @@
-<h1>Hi, I'm Salman! <br/><a href="https://github.com/salmanmalik-techsec">Veteran</a>, <a href="https://www.linkedin.com/in/sal-malik/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@TechSec.with.AbuAbdullah">YouTuber</a></h1>
+<h1>Hi, I'm Salman! <br/><a href="https://github.com/salmanmalik-techsec">Veteran</a>, <a href="https://www.linkedin.com/in/sal-malik/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 My Projects:</h2>
 
